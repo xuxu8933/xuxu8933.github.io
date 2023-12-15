@@ -1,6 +1,6 @@
 ---
 title: 线性规划和其对偶性
-tags: optimization math
+tags: [optimization, math]
 categories: [Note]
 math: true
 ---
@@ -8,7 +8,7 @@ math: true
 ## 线性规划
 
 考虑以下线性规划原始问题 (primal problem)
-<!--more-->
+
 $$
 \begin{aligned}
     \min_{x} \ & c^\top x \\
@@ -16,7 +16,7 @@ $$
 \end{aligned} \tag{1}
 $$
 
-建立拉格朗日函数 
+建立拉格朗日函数
 
 $$
 \mathcal{L}=c^\top x + \lambda^\top (b - A x)
