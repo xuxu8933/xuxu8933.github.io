@@ -35,7 +35,7 @@ $$
 
 从 complementary condition $\lambda^\star(b-Ax^\star)=0$ 可推得 $b^\top \lambda \leq c^\top x$. 因此以 $\lambda$ 为优化变量构建对偶问题 (dual problem) 如下
 
-$$ 
+$$
 \begin{aligned}
     \max_\lambda \ &b^\top \lambda \\
     \text{s.t.} \ &A^\top \lambda = c \\
