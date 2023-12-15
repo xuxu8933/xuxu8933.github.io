@@ -13,16 +13,12 @@ math: true
 
 考虑以下线性规划原始问题 (primal problem)
 
-
-
 $$
 \begin{aligned}
     \min_{x} \ & c^\top x \\
     \text{s.t.} \ & A x \geq b
 \end{aligned} \tag{1}
 $$
-
-
 
 建立拉格朗日函数
 
