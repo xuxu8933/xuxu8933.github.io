@@ -5,9 +5,15 @@ categories: [Note]
 math: true
 ---
 
+线性规划问题作为一个基本的优化问题，在运筹学，数值优化等领域中都给出了是否启发性的见解。
+
+<!--more-->
+
 ## 线性规划
 
 考虑以下线性规划原始问题 (primal problem)
+
+
 
 $$
 \begin{aligned}
@@ -15,6 +21,8 @@ $$
     \text{s.t.} \ & A x \geq b
 \end{aligned} \tag{1}
 $$
+
+
 
 建立拉格朗日函数
 
